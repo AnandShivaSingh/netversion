@@ -1,0 +1,2 @@
+C:\Users\anandsinghdevops\source\repos\netversion2\netversion2\obj\Debug\netcoreapp2.1\netversion2.AssemblyInfoInputs.cache
+C:\Users\anandsinghdevops\source\repos\netversion2\netversion2\obj\Debug\netcoreapp2.1\netversion2.AssemblyInfo.cs
